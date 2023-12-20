@@ -22,12 +22,8 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur.
+                Movix is a website that claims to offer a large collection of Bollywood and Hollywood movies and TV Shows for free streaming and download. However, the website is not affiliated with any official production or distribution company, and it is likely that the movies offered on the website are pirated copies.
+                Additionally, the website contains a lot of pop-up ads and intrusive redirects, which can be annoying and even dangerous. Clicking on these ads could lead you to malware-infected websites or install unwanted programs on your computer.
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
